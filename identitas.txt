@@ -1,2 +1,4 @@
 gua : Al Ghofary
 kelas : SI-H
+antum : adri virmansyah
+jenengan : resti
